@@ -1,4 +1,4 @@
-% Completed by: Jack Allen
+% Completed by: XXXXXXXX
 
 % Here are some men
 man(stuart).
