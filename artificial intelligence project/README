@@ -1,0 +1,5 @@
+This was for the final project in my Artificial Intelligence 405 class, where we were suppoed to complete the first 4 problems in 
+one of the UC Berkeley's Pacman Projects. I chose Project 1 and completed questions Q1-Q4. 
+
+Note: The project files use the 'imp' module, which was removed in Python 3.12. Hence, I completed the project using a previous version of Python in a virtual environment,
+  specifically using version 3.6.8.
